@@ -1,0 +1,530 @@
+{
+            "web": [
+                {
+                "id": "a1",
+                "name": "Event Invitation",
+                "description": "Sweet seventeen invitation and RSVP",
+                "about": "Presenting a dynamic online Sweet Seventeen birthday invitation with captivating features! Enjoy background music that can be paused and played, a countdown to the event date, and an RSVP system linked to a spreadsheet accessible to the client. Plus, the website is designed with enchanting animations to enhance the invitation experience.",
+                "image":"rsvp.png",
+                "role": ["Web Developer", "UI UX Designer"],
+                "button": [{
+                    "name": "Website",
+                    "link": "https://vellasweet17.netlify.app/"
+                }],
+                "technology": [
+                    {
+                        "category": "UI & UX Design",
+                        "items": [
+                            {
+                                "icon": "figma.svg",
+                                "name": "Figma"
+                            }
+                        ]
+                    },
+                    {
+                        "category": "IDE",
+                        "items": [
+                            {
+                                "icon": "vsc.svg",
+                                "name": "Visual Studio Code"
+                            }
+                        ]
+                    },
+                    {
+                        "category": "Programming Language",
+                        "items": [
+                            {
+                                "icon": "html.svg",
+                                "name": "HTML"
+                            },
+                            {
+                                "icon": "css.svg",
+                                "name": "CSS"
+                            },
+                            {
+                                "icon": "js.svg",
+                                "name": "JavaScript"
+                            },
+                            {
+                                "icon": "jquery.svg",
+                                "name": "JQuery"
+                            }
+                        ]
+                    }
+                ]
+            },
+                {
+                    "id": "a2",
+                    "name": "MEBTOON",
+                    "description": "Comic reading platform",
+                    "about": "A dummy responsive web comic reading platfrom that I created in my 4th semester project assignment. All the data are inputed manually in the HTML. The UI & UX was designed by myself and the program also coded by myself. There are 5 page Home, Top Author, Top Mebtoon, Subscribe, and Categories. There's no reading comic feature yet.",
+                    "image": "mebtoon.png",
+                    "role": ["UI UX Designer", "Programmer"],
+                    "button": [{
+                        "name": "Open Web",
+                        "link": "https://mebtoon-alfine.netlify.app/"
+                    },
+                    {
+                        "name": "Documentation",
+                        "link": "https://photos.app.goo.gl/8SRdSUv3K9VxJVZK6"
+                    }],
+                    "technology": [
+                        {
+                            "category": "UI & UX Design",
+                            "items": [
+                                {
+                                    "icon": "figma.svg",
+                                    "name": "Figma"
+                                },
+                                {
+                                    "icon": "canva.svg",
+                                    "name": "Canva"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Code Editor",
+                            "items": [
+                                {
+                                    "icon": "vsc.svg",
+                                    "name": "Visual Studio Code"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Programming & Mark Up Language",
+                            "items": [
+                                {
+                                    "icon": "html.svg",
+                                    "name": "HTML"
+                                },
+                                {
+                                    "icon": "css.svg",
+                                    "name": "CSS"
+                                },
+                                {
+                                    "icon": "js.svg",
+                                    "name": "JavaScript"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "External Library",
+                            "items": [
+                                {
+                                    "icon": "jquery.svg",
+                                    "name": "JQuery"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "a3",
+                    "name": "Alfine's Portofolio",
+                    "description": "This website",
+                    "about": "My portofolio website that i created with ReactJS. I create all the design and code by myself without using a template from internet.",
+                    "image": "portofolio.png",
+                    "role": ["Concept Creator", "UI UX Designer", "Programmer"],
+                    "button": [{
+                        "name": "Open Web",
+                        "link": "https://alfine.netlify.app/"
+                    }],
+                    "technology": [
+                        {
+                            "category": "UI & UX Design",
+                            "items": [
+                                {
+                                    "icon": "figma.svg",
+                                    "name": "Figma"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Code Editor",
+                            "items": [
+                                {
+                                    "icon": "vsc.svg",
+                                    "name": "Visual Studio Code"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Programming & Mark Up Language",
+                            "items": [
+                                {
+                                    "icon": "html.svg",
+                                    "name": "HTML"
+                                },
+                                {
+                                    "icon": "css.svg",
+                                    "name": "CSS"
+                                },
+                                {
+                                    "icon": "js.svg",
+                                    "name": "JavaScript"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "External Library",
+                            "items": [
+                                {
+                                    "icon": "react.svg",
+                                    "name": "ReactJS"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "a4",
+                    "name": "POS Application",
+                    "description": "Shoes business Point of Sales app",
+                    "about": "A dummy point of sales web app that's not connected to database yet. This web is responsive so user can use this web app from mobile phone comfortably. All the forms in this website such as login, sign up, and other forms have their own user input validation. But all data in this website still inputed manually in the HTML and currently no feature working yet.",
+                    "image": "sales.png",
+                    "role": ["Programmer"],
+                    "button": [{
+                        "name": "Documentation",
+                        "link": "https://photos.app.goo.gl/P6j5idWaagYMwsSW7"
+                    }],
+                    "technology": [
+                        {
+                            "category": "Code Editor",
+                            "items": [
+                                {
+                                    "icon": "vsc.svg",
+                                    "name": "Visual Studio Code"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Programming & Mark Up Language",
+                            "items": [
+                                {
+                                    "icon": "html.svg",
+                                    "name": "HTML"
+                                },
+                                {
+                                    "icon": "css.svg",
+                                    "name": "CSS"
+                                },
+                                {
+                                    "icon": "js.svg",
+                                    "name": "JavaScript"
+                                }
+                            ]
+                        }]
+                },
+                {
+                    "id": "a5",
+                    "name": "Captain Barbershop",
+                    "description": "Data management website",
+                    "about": "A data management website for a business called \"Captain Barbershop\" which a quite famous barbershop in Indonesia. All this website do is only CRUD (Create, read, update, and delete) Captain Barbershop data in the database. The data that can be managed is Transaction, Detail Transaction, Branch, Customer, Staff, Hair, and Treatment. Each table data in the database have their own page in the website. All the form have their own validation for the data and the data shown in the page are realtime updated.",
+                    "image": "captain.png",
+                    "role": ["Programmer"],
+                    "button": [{
+                        "name": "Documentation",
+                        "link": "https://photos.app.goo.gl/XUG2hZ5npXWoho8v5"
+                    }],
+                    "technology": [
+                        {
+                            "category": "UI & UX Design",
+                            "items": [
+                                {
+                                    "icon": "figma.svg",
+                                    "name": "Figma"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Code Editor",
+                            "items": [
+                                {
+                                    "icon": "vsc.svg",
+                                    "name": "Visual Studio Code"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Programming & Mark Up Language",
+                            "items": [
+                                {
+                                    "icon": "html.svg",
+                                    "name": "HTML"
+                                },
+                                {
+                                    "icon": "css.svg",
+                                    "name": "CSS"
+                                },
+                                {
+                                    "icon": "php.svg",
+                                    "name": "PHP"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Database",
+                            "items": [
+                                {
+                                    "icon": "mysql.svg",
+                                    "name": "MySQL"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "a6",
+                    "name": "Caroline Rentals",
+                    "description": "Car Renting Business Web",
+                    "about": "My first website project that i created when i'm just become a university student. I created this as a part of Binus IT Divison selection process. This website is a web for car rental business. All the design already given, therefore i just need to code the web. This is a dummy website, so there are no feature working yet.",
+                    "image": "carolinerentals.png",
+                    "role": ["Programmer"],
+                    "button": [{
+                        "name": "Open Web",
+                        "link": "https://carolinerentals-alfine.netlify.app/"
+                    },
+                    {
+                        "name": "Documentation",
+                        "link": "https://photos.app.goo.gl/KuR8m4xLwFtDnjX38"
+                    }],
+                    "technology": [
+                        {
+                            "category": "Code Editor",
+                            "items": [
+                                {
+                                    "icon": "vsc.svg",
+                                    "name": "Visual Studio Code"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Programming & Mark Up Language",
+                            "items": [
+                                {
+                                    "icon": "html.svg",
+                                    "name": "HTML"
+                                },
+                                {
+                                    "icon": "css.svg",
+                                    "name": "CSS"
+                                },
+                                {
+                                    "icon": "js.svg",
+                                    "name": "JavaScript"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "mobile": [
+                {
+                    "id": "b1",
+                    "name": "Catnip",
+                    "description": "Pet service e-commerce app",
+                    "about": "My final project at the Apple Developer Academy, where I served as the tech lead and Android developer for our team's pet hotel e-commerce app. My responsibilities included implementing Flutter programming, API calls, Git, and leading the tech team.",
+                    "image":"catnip.png",
+                    "role": ["Tech Lead", "Android Developer"],
+                    "button": [{
+                        "name": "Documentation",
+                        "link": "#"
+                    }],
+                    "technology": [
+                        {
+                            "category": "IDE",
+                            "items": [
+                                {
+                                    "icon": "vsc.svg",
+                                    "name": "Visual Studio Code"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Programming Language",
+                            "items": [
+                                {
+                                    "icon": "flutter.svg",
+                                    "name": "Flutter (Dart)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "b2",
+                    "name": "COBLIND",
+                    "description": "Color blind simulator app",
+                    "about": "Color blind simulator app that lead me to become one of Apple WWDC23 Swift Student Challenge winners. This app explained about color blind and let the user to experience the different sight between how a normal person see and color blinds see. User also can change the color using RGB slider provided.",
+                    "image":"coblind.png",
+                    "role": ["Concept Creator", "UI UX Designer", "Programmer"],
+                    "button": [{
+                        "name": "Documentation",
+                        "link": "https://photos.app.goo.gl/1ChFNiNpt5MQgRpo8"
+                    }],
+                    "technology": [
+                        {
+                            "category": "UI & UX Design",
+                            "items": [
+                                {
+                                    "icon": "sketch.svg",
+                                    "name": "Sketch"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "IDE",
+                            "items": [
+                                {
+                                    "icon": "xcode.svg",
+                                    "name": "XCode"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Programming Language",
+                            "items": [
+                                {
+                                    "icon": "swift.svg",
+                                    "name": "Swift"
+                                },
+                                {
+                                    "icon": "swiftui.svg",
+                                    "name": "SwiftUI"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "b3",
+                    "name": "MRTIX",
+                    "description": "MRT payment system connected to apple watch",
+                    "about": "A project",
+                    "image":"mrtix.png",
+                    "role": ["iOS Developer"],
+                    "button": [{
+                        "name": "Documentation",
+                        "link": "#"
+                    }],
+                    "technology": [
+                        {
+                            "category": "IDE",
+                            "items": [
+                                {
+                                    "icon": "xcode.svg",
+                                    "name": "XCode"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Programming Language",
+                            "items": [
+                                {
+                                    "icon": "swiftui.svg",
+                                    "name": "SwiftUI"
+                                }
+                            ]
+                        }
+                    ]
+                },{
+                    "id": "b4",
+                    "name": "NFC Alarm",
+                    "description": "Alarm app with NFC feature",
+                    "about": "Introducing an Android app packed with alarm, stopwatch, and timer features! But here's the twist: alarms can only be silenced using NFC tags registered in the app.",
+                    "image":"nfcalarm.png",
+                    "role": ["Android Developer"],
+                    "button": [{
+                        "name": "Github Link",
+                        "link": "#"
+                    }],
+                    "technology": [
+                        {
+                            "category": "IDE",
+                            "items": [
+                                {
+                                    "icon": "androidstudio.svg",
+                                    "name": "Android Studio"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Programming Language",
+                            "items": [
+                                {
+                                    "icon": "java.svg",
+                                    "name": "Java"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Other Technology",
+                            "items": [
+                                {
+                                    "icon": "nfc.svg",
+                                    "name": "NFC"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "b5",
+                    "name": "TODOVITY",
+                    "description": "To-do list android app",
+                    "about": "My first Android based mobile app project that I created in June 2022. This app inspired from my experience where I often forget things that I need to do. From this experience, I inspired to create my own \"To-Do List\" app from scratch. All of the feature except \"Settings\" feature already works.",
+                    "image":"todovity.png",
+                    "role": ["Concept Creator", "UI UX Designer", "Android Developer"],
+                    "button": [{
+                        "name": "Download APK",
+                        "link": "https://drive.google.com/file/d/1eEJviVx1rbYoaOMdHTtAUEuHnsw24uWC/view?usp=sharing"
+                    },
+                    {
+                        "name": "Documentation",
+                        "link": "https://photos.app.goo.gl/9vZCtUvTQ86Ag4Lv5"
+                    }],
+                    "technology": [
+                        {
+                            "category": "IDE",
+                            "items": [
+                                {
+                                    "icon": "androidstudio.svg",
+                                    "name": "Android Studio"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Programming & Mark Up Language",
+                            "items": [
+                                {
+                                    "icon": "java.svg",
+                                    "name": "Java"
+                                },
+                                {
+                                    "icon": "xml.svg",
+                                    "name": "XML"
+                                }
+                            ]
+                        },{
+                            "category": "Database",
+                            "items": [
+                                {
+                                    "icon": "firebase.svg",
+                                    "name": "Firebase"
+                                }
+                            ]
+                        },                      
+                        {
+                            "category": "External Library",
+                            "items": [
+                                {
+                                    "icon": "material.svg",
+                                    "name": "Material Design"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+}
